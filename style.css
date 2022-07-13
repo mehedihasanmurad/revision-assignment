@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Verdana;
+}
+
+header{
+    background-image: url(images/4.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main{
+    text-align: center;
+    padding: 20%;
+    color: white;
+}
+.main h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.title{
+    background-color: coral;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
