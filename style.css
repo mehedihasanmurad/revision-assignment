@@ -150,3 +150,17 @@ padding: 5px 20px;
 color: white;
 text-align: center;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+footer h1{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: coral;
+}
+footer p{
+    padding: 10px;
+    color: gray;
+}
